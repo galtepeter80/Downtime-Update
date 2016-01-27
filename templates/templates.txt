@@ -1,0 +1,17 @@
+header.php
+
+	a header file for every page
+	
+footer.php
+
+	a footer file for every page
+
+downtime.php
+
+	a template for laying out the commentary/out of character comments in-line
+	
+selection.php
+
+	a template for selecting usernames / characters / storylines
+	
+	
