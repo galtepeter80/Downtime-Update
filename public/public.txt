@@ -1,0 +1,23 @@
+login.php
+
+	a page redirected to in the case that no user exists.
+	
+register.php
+
+	a page directed to a registration
+	
+storyline.php
+
+	a page for creating a new storyline
+	
+selection.php
+
+	a page for selecting a current storyline
+	
+legend.php
+
+	a page for rendering the current storyline
+	
+append.php
+
+	a page for appending the current storyline

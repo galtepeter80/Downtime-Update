@@ -1,0 +1,17 @@
+config.php
+
+	a master files for including all relevant functions
+	
+functions.php
+	
+	a file for including all important functions
+	
+constants.php
+
+	important constants, globals, not to be included in standard code
+	
+sheets.css
+
+	a css file for including to change the look of the entire site.
+	
+	

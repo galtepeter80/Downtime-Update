@@ -1,0 +1,117 @@
+/*
+	styles.css
+	
+	CSS files for styling all pages
+	
+	by Greg Altepeter
+	
+*/
+
+body {
+	background-image: url("../images/seamless-wood-pattern2.jpg");
+	background-color: #dddddd;
+}
+
+div {
+	text-align: center;
+}
+
+fieldset {
+	border: 0px;
+}
+
+#bottom {
+	text-align: center;
+	font-size: 0.75em;
+	font-family: "Courier New", Courier, monospace;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#ic_form {
+	height: 150px;
+	width: 450px;
+	padding: 1px;
+	margin-right: 15%;
+	border-style: double groove;
+	
+	background-color: #dddddd;
+	text-align: left;
+	font-style: italic;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#ooc_form {
+	height: 100px;
+	width: 450px;
+	padding: 1px;
+	margin-left: 15%;
+	text-align: right;
+	font-family: "Courier New", Courier, monospace;
+	background-color: #dddddd;
+}
+
+.intro {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.forms {
+	height: 30px;
+	width: 250px;
+	padding: 1px;
+	border-style: double groove;
+	background-color: #dddddd;
+	text-align: left;
+}
+
+.syst {
+	text-align: center;
+	font-size: 0.75em;
+	font-family: "Courier New", Courier, monospace;
+	font-style: bold;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.character {
+	text-align: left;
+	font-size: 2em;
+	font-family: New Century Schoolbook, serif;
+	margin-left: 5%;
+	font-style: bold;
+}
+
+.username {
+	text-align: center;
+	font-size: 0.75em;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.div_middle {
+	text-align: center;
+}
+
+.ic {
+	text-align: left;
+	font-style: italic;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin-right: 15%;
+	border-style: double groove;
+	background-image: url("../images/parchment.jpg");
+	background-color: #dddddd;
+}
+
+.ooc {
+	text-align: left;
+	font-family: "Courier New", Courier, monospace;
+	margin-left: 15%;
+	background-image: url("../images/notebook.jpg");
+	background-color: #dddddd;
+	border-style: double groove;
+}
+
+img.resize {
+	width: 50%;
+	height: auto;
+}
